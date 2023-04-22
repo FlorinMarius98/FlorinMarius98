@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FlorinMarius98
-- 👀 I’m interested in Quality Assurance and Testing
-- 🌱 I’m currently learning Postman, SoapUI and other tools for API Testing 
+- 👀 I’m interested in Networking
+- 🌱 I’m currently learning Wireshark, Python sockets and other tools for Networking
 
 'Aight bye!
